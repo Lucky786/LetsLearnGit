@@ -1,0 +1,10 @@
+1. Clone repo from github using git clone https://github.com/Lucky786/LetsLearnGit.git
+2. Created two branch
+3. Added 1 file in Dev Branch
+4. Added 2 file in Test Branch
+5. Modified 1st file from dev
+6. Merged all dev and test branch in master
+7. git push
+8. clone into another repo
+9. added new file solution.txt
+10. git commit and push
